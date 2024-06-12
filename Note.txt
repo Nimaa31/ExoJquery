@@ -1,0 +1,7 @@
+C'était ma première expérience avec jQuery, et bien que j'ai passé environ une heure dessus,
+je n'ai pas réussi à terminer tous les tests que tu ma envoyer  . Ce que j'ai réussi à faire,
+c'est à afficher le nom et la date du lancement en utilisant les données de l'API SpaceX.
+J'ai trouvé difficile de mettre en place un compte à rebours en temps réel.
+Malgré cela, j'ai pu apprendre quelques concepts importants. Par exemple, j'ai revu la déclaration de variables avec var, 
+et j'ai compris comment transformer une variable en texte pour l'afficher dans le HTML. Par exemple, avec $('#nom').text("Nom du lancement: " + Name);, 
+je crée une chaîne de caractères pour l'élément ayant l'ID "nom" dans mon HTML.
